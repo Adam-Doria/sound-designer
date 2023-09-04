@@ -2,7 +2,7 @@
 
 
 <h2> Le Projet </h2>
-Avant d'etre, lui aussi apprenant à Ada Tech School, Clément Badin était ingénieur son pour le cinéma. 
+Avant d'être, lui aussi, apprenant à Ada Tech School, Clément Badin était ingénieur son pour le cinéma. 
 N'ayant jamais créé de portfolio sur son travail, il a profité de cette reconversion pour le faire. 
 <a href="https://website-sound-designer.vercel.app/" target="_blank"> 
   <br/>Cliquez ici </a> pour voir le rendu du projet. 
