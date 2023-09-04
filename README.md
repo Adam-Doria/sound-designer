@@ -40,6 +40,6 @@ Ce que j'ai appris :
 
 <h2> Evolutions possibles </h2>
 
--Passer le site en NextJS/NuxtJS => Réactivité de React, Dom vituel pour render uniquement les parties qui nous intéressent, limitation du nombre d'Eventlisteners, meilleur SEO et gestion de la BDD possible.
+-Passer le site en NextJS/NuxtJS => Réactivité de React/VueJS, Dom vituel pour render uniquement les parties qui nous intéressent, limitation du nombre d'Eventlisteners, meilleur SEO et gestion de la BDD possible.
 <br/>-CSS : passage sur tailwind ou Emotion pour un meilleur suivi du CSS. 
 
